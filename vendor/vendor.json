@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Vp/5whYNZZevk6WZ3EBKsWkQp9g=",
+			"path": "github.com/lib/pq",
+			"revision": "e42267488fe361b9dc034be7a6bffef5b195bceb",
+			"revisionTime": "2017-08-10T06:12:20Z",
+			"tree": true
+		}
+	],
+	"rootPath": "jsuarez/basic-go-postgres"
+}

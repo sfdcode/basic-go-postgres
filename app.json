@@ -1,0 +1,9 @@
+{
+    "name": "Go Sample",
+    "description": "A simple Go server with Postgres",
+    "repository": "https://github.com/sfdcode/simple-node-postgress",    
+    "addons": ["heroku-postgresql:hobby-dev"],    
+    "keywords": ["golang"],
+    "buildpacks": [{"url": "heroku/go"}]
+  }
+  
